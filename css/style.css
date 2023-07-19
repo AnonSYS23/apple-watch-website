@@ -1,0 +1,118 @@
+/* Group 4 */
+
+.group-4 {
+    position: absolute;
+    width: 1920px;
+    height: 1879.65px;
+    left: 0px;
+    top: -505px;
+  }
+  
+  /* main cover bg */
+  
+  .main-cover-bg {
+    position: absolute;
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: 99px;
+    background: linear-gradient(75.11deg, #3E1E4D 0%, #523A5E 60.5%);
+  }
+  
+  /* shadow */
+  
+  .shadow {
+    position: absolute;
+    width: 1920px;
+    height: 700px;
+    left: 0px;
+    top: 99px;
+    background: linear-gradient(360deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0) 100%);
+  }
+  
+  /* intro */
+  
+  .intro {
+    position: absolute;
+    width: 749px;
+    height: 434px;
+    left: 97px;
+    top: 232px;
+  }
+  
+  /* We make games you’ll love. */
+  
+  .we-make-games-youll-love {
+    position: absolute;
+    width: 749px;
+    height: 254px;
+    left: 97px;
+    top: 232px;
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 127px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+  }
+  
+  /* Beautiful and stunning graphics from fun and kickstarting titles. Ready at your fingertips. */
+  
+  .beautiful-and-stunning-graphics {
+    position: absolute;
+    width: 749px;
+    height: 144px;
+    left: 97px;
+    top: 522px;
+    font-family: 'Red Hat Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #FFFFFF;
+  }
+  
+  /* game covers */
+  
+  .game-covers {
+    position: absolute;
+    width: 850.8px;
+    height: 1879.65px;
+    left: 1048px;
+    top: -505px;
+  }
+  
+  /* Group 2 */
+  
+  .group-2 {
+    position: absolute;
+    width: 982.42px;
+    height: 663.44px;
+    left: 1048px;
+    top: 220px;
+    transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+  }
+  
+  /* Group 1 */
+  
+  .group-1 {
+    position: absolute;
+    width: 982.42px;
+    height: 663.44px;
+    left: 1048px;
+    top: 220px;
+    transform: matrix(0.87, 0.5, 0, 1, 0, 0);
+  }
+  
+  /* Rectangle 14 */
+  
+  .rectangle-14 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 205.53px;
+    height: 308.29px;
+    left: 1048px;
+    top: 220px;
+    background: linear-gradient(156.04deg, #BABABA 0%, rgba(186, 186, 186, 0) )
+}  
